@@ -68,3 +68,8 @@ Calculating the angle:
 ### Run for improvement 
 - Recognition of current position by comparison of characteristic points (object detection)
 - Determination of current position by comparison of sequential frame
+
+## Example
+
+![Zrzut ekranu 2023-02-23 140801](https://user-images.githubusercontent.com/51478114/220915230-75c71334-9867-497f-b613-1fd198d5aabf.png)
+
