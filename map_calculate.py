@@ -616,7 +616,7 @@ def calculate(frameskipnumber, path_to_video, map_sector_path):
                     centers2 = centers2.reshape((-1, 1, 2))
                     cv2.polylines(img_rgb, [centers2], False, (0, 255, 255), 3)
                     img_rgb=cv2.resize(img_rgb,(1000,600))
-                    cropped_template_rgb=cv2.resize(cropped_template_rgb,(600,300))
+                    cropped_template_rgb=cv2.resize(cropped_template_rgb,(300,200))
 
 
                     cv2.imshow('Sector Map', img_rgb)
