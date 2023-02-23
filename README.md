@@ -8,6 +8,9 @@
 ## Result video
 https://youtu.be/i-H_lZvdhPQ
 
+## Architecture
+![v1-pop](https://user-images.githubusercontent.com/51478114/220906833-5ed284b9-4fe5-4de3-b79f-cc1fe7ef3517.png)
+
 ## How it works:
 
 Proposed solution tackles the problem with navigation based only on visual data.
