@@ -56,8 +56,12 @@ Calculating the angle:
 ### Advantages of the solution
 - Lightweight - calculation position in real time
 - Independence from sensors (vision only)
+- Robustness against drone rotation
+- Robustness to drone altitude change
 
 ### Disadvantages of the solution:
 - Not available for drones without a top down camera
 
-
+### Run for improvement 
+- Recognition of current position by comparison of characteristic points (object detection)
+- Determination of current position by comparison of sequential frame
