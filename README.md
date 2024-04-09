@@ -9,7 +9,8 @@
 https://youtu.be/i-H_lZvdhPQ
 
 ## Architecture
-![v1-pop](https://user-images.githubusercontent.com/51478114/220906833-5ed284b9-4fe5-4de3-b79f-cc1fe7ef3517.png)
+![220906833-5ed284b9-4fe5-4de3-b79f-cc1fe7ef3517](https://github.com/Madrianoliko/uav-navigation-without-gps/assets/51478114/d9736259-12a1-4271-923c-32be7c9fed6e)
+
 
 ## How it works:
 
